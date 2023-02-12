@@ -52,3 +52,13 @@ h4{
     color: white;
     font-weight: bold;
 }
+#info {
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    color: white;
+    font-family: monospace;
+    border-radius: 5px;
+    background-color: springgreen;
+}
+
